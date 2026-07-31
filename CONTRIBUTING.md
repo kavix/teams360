@@ -33,7 +33,7 @@ proposals); Discussions are best for *open-ended* conversations.
 ### Reporting Bugs
 
 Before opening a new issue, please check the
-[issue tracker](https://github.com/guidewire-oss/Team Health Check/issues) to see if
+[issue tracker](https://github.com/guidewire-oss/teams360/issues) to see if
 it's already reported. When opening a bug report, include as many details as
 possible:
 
