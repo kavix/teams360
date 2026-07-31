@@ -1,4 +1,4 @@
-# Root Makefile for Team360 Monorepo
+# Root Makefile for Team Health Check Monorepo
 # Orchestrates both Frontend (Next.js/TypeScript) and Backend (Go/Gin)
 #
 # Quick Start: make run
