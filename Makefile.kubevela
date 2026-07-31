@@ -1,5 +1,5 @@
 # =============================================================================
-# Team360 KubeVela + CNPG Deployment Automation
+# Team Health Check KubeVela + CNPG Deployment Automation
 # Included from root Makefile via: -include Makefile.kubevela
 #
 # Full pipeline:  make kubevela-deploy-all
